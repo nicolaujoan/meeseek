@@ -1,0 +1,14 @@
+{
+  "name": "box",
+  "version": "1.0.0",
+  "description": "this is the box that generate the meeseeks",
+  "main": "box.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "box"
+  ],
+  "author": "Joan Nicolau",
+  "license": "MIT"
+}
