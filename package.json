@@ -1,0 +1,29 @@
+{
+  "name": "meeseeks",
+  "version": "1.0.0",
+  "description": "Package that uses Meeseek and Box to simulate Rick&Morty episode",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaujoan/meeseek.git"
+  },
+  "keywords": [
+    "meeseeks",
+    "box",
+    "rick",
+    "morty",
+    "closures",
+    "modules",
+    "proxy",
+    "singleton"
+  ],
+  "author": "Joan Nicolau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolaujoan/meeseek/issues"
+  },
+  "homepage": "https://github.com/nicolaujoan/meeseek#readme"
+}
